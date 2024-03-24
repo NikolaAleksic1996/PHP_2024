@@ -21,6 +21,7 @@ The repository is organized into modules, each focusing on specific topics and e
 - `00_syntax.php`: Introduction to PHP and basic syntax
 - `01_comments.php`: Working with different types of comments
 - `02_variables.php`: Working with variables
+- `02_variables.php`: Working and operations with numbers
 
 ## Getting Started
 
