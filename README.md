@@ -23,6 +23,7 @@ The repository is organized into modules, each focusing on specific topics and e
 - `02_variables.php`: Working with variables
 - `03_numbers.php`: Working and operations with numbers
 - `04_strings.php`: Working and operations with strings
+- `05_arrays.php`: Working and operations with arrays
 
 ## Getting Started
 
